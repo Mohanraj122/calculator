@@ -1,7 +1,7 @@
 
  
  *********************************************** I'm develop a calculator with the languages are html,css,and javascript 
- *********************************************** In this we can calculate the Simple addition,subraction,multiplication and division.
+ *********************************************** In this we can calculate the Simple addition,subtraction,multiplication and division.
  
 
 
